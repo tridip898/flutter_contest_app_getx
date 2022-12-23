@@ -1,0 +1,32 @@
+[
+  {
+    "status": "Winner",
+    "text": "Tech App",
+    "img": "lib/images/tech.jpg",
+    "time": "04 days"
+  },
+  {
+    "status": "Winner",
+    "text": "Medical App",
+    "img": "lib/images/tech1.jpg",
+    "time": "07 days"
+  },
+  {
+    "status": "Winner",
+    "text": "Desktop App",
+    "img": "lib/images/tech2.jpg",
+    "time": "12 days"
+  },
+  {
+    "status": "Winner",
+    "text": "E-commerce App",
+    "img": "lib/images/tech3.jpg",
+    "time": "14 days"
+  },
+  {
+    "status": "Winner",
+    "text": "Yahoo App",
+    "img": "lib/images/tech5.jpg",
+    "time": "19 days"
+  }
+]

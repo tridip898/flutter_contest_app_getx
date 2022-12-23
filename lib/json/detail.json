@@ -1,0 +1,34 @@
+[
+  {
+    "name": "David Huston",
+    "title": "Delivery App",
+    "subtitle": "We need delivery app but with a fun look. Our target is the user and the courier can use it easily",
+    "img": "lib/images/image1.webp",
+    "time": "05 Jan",
+    "price": "250"
+  },
+  {
+    "name": "John Smith",
+    "title": "E-commerce App",
+    "subtitle": "We will develop a e-commerce app that delivery goods to customer house and customer can choose their product here",
+    "img": "lib/images/images2.jpg",
+    "time": "10 Jan",
+    "price": "320"
+  },
+  {
+    "name": "Jacqueline",
+    "title": "Travel App",
+    "subtitle": "We build a app that works as a tour guide for tourists in new place but it will be more easier and cost friendly for travelers",
+    "img": "lib/images/image3.jpg",
+    "time": "18 Jan",
+    "price": "375"
+  },
+  {
+    "name": "Julie Ann",
+    "title": "Medical App",
+    "subtitle": "We develop a app where people can get doctor appointment and medication sitting from home",
+    "img": "lib/images/image4.jpg",
+    "time": "28 Jan",
+    "price": "399"
+  }
+]
